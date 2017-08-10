@@ -1,0 +1,241 @@
+**** Integrated Choice & latent Variable Model (ICLV) ****
+-------> For Sample ID: 1 
+Start estimation
+The negative of the log-likelihood is minimized,
+which is the same as maximizing the log-likelihood.
+                                            First-order      Norm of
+ Iter F-count            f(x)  Feasibility   optimality         step
+    0      18    8.382732e+03    0.000e+00    9.262e+02
+Objective function returned Inf; trying a new point...
+    1      44    8.065873e+03    0.000e+00    2.661e+02    2.577e-01
+Objective function returned Inf; trying a new point...
+    2      63    8.062323e+03    0.000e+00    1.087e+03    5.153e-01
+Objective function returned Inf; trying a new point...
+    3      87    8.000050e+03    0.000e+00    1.034e+03    2.577e-01
+Objective function returned Inf; trying a new point...
+    4     106    7.923658e+03    0.000e+00    6.309e+02    2.577e-01
+Objective function returned Inf; trying a new point...
+    5     131    7.905887e+03    0.000e+00    6.026e+02    6.442e-02
+Objective function returned Inf; trying a new point...
+    6     150    7.876963e+03    0.000e+00    4.910e+02    1.288e-01
+Objective function returned Inf; trying a new point...
+    7     172    7.802890e+03    0.000e+00    1.566e+02    2.577e-01
+Objective function returned Inf; trying a new point...
+    8     193    7.754772e+03    0.000e+00    3.959e+02    4.509e-01
+Objective function returned Inf; trying a new point...
+    9     217    7.726283e+03    0.000e+00    3.593e+02    2.255e-01
+Objective function returned Inf; trying a new point...
+   10     238    7.719669e+03    0.000e+00    4.589e+02    1.127e-01
+Objective function returned Inf; trying a new point...
+   11     260    7.699619e+03    0.000e+00    3.829e+02    2.255e-01
+Objective function returned Inf; trying a new point...
+   12     284    7.678868e+03    0.000e+00    1.281e+02    3.946e-01
+Objective function returned Inf; trying a new point...
+   13     304    7.677376e+03    0.000e+00    4.681e+02    3.946e-01
+Objective function returned Inf; trying a new point...
+   14     328    7.676307e+03    0.000e+00    4.767e+02    1.973e-01
+Objective function returned Inf; trying a new point...
+   15     347    7.673876e+03    0.000e+00    4.743e+02    1.973e-01
+Objective function returned Inf; trying a new point...
+   16     369    7.657809e+03    0.000e+00    2.718e+02    3.946e-01
+Objective function returned Inf; trying a new point...
+   17     388    7.634176e+03    0.000e+00    2.099e+02    7.891e-01
+Objective function returned Inf; trying a new point...
+   18     412    7.625740e+03    0.000e+00    3.775e+02    3.946e-01
+Objective function returned Inf; trying a new point...
+   19     433    7.624696e+03    0.000e+00    3.507e+02    1.973e-01
+Objective function returned Inf; trying a new point...
+   20     456    7.613921e+03    0.000e+00    2.709e+02    1.973e-01
+Objective function returned Inf; trying a new point...
+   21     476    7.610496e+03    0.000e+00    1.294e+02    1.973e-01
+Objective function returned Inf; trying a new point...
+   22     498    7.599123e+03    0.000e+00    5.660e+01    3.946e-01
+Objective function returned Inf; trying a new point...
+   23     519    7.596727e+03    0.000e+00    1.929e+02    1.973e-01
+Objective function returned Inf; trying a new point...
+   24     541    7.588109e+03    0.000e+00    1.509e+02    3.946e-01
+Objective function returned Inf; trying a new point...
+   25     565    7.585287e+03    0.000e+00    1.503e+02    1.973e-01
+Objective function returned Inf; trying a new point...
+   26     585    7.584125e+03    0.000e+00    1.002e+02    9.864e-02
+   27     607    7.577131e+03    0.000e+00    1.070e+02    1.973e-01
+Objective function returned Inf; trying a new point...
+   28     628    7.576123e+03    0.000e+00    1.055e+02    9.864e-02
+Objective function returned Inf; trying a new point...
+   29     650    7.574126e+03    0.000e+00    1.761e+02    1.973e-01
+Objective function returned Inf; trying a new point...
+   30     671    7.573292e+03    0.000e+00    1.376e+02    9.864e-02
+
+                                            First-order      Norm of
+ Iter F-count            f(x)  Feasibility   optimality         step
+   31     693    7.567607e+03    0.000e+00    7.616e+01    1.973e-01
+   32     716    7.560652e+03    0.000e+00    6.284e+01    6.905e-01
+   33     739    7.559969e+03    0.000e+00    2.807e+02    5.470e-01
+Objective function returned Inf; trying a new point...
+   34     759    7.559095e+03    0.000e+00    2.767e+02    2.735e-01
+   35     778    7.557391e+03    0.000e+00    1.218e+02    6.457e-02
+   36     796    7.556365e+03    0.000e+00    4.506e+01    3.629e-01
+   37     814    7.555906e+03    0.000e+00    3.263e+01    1.237e-01
+   38     832    7.555772e+03    0.000e+00    2.636e+01    3.095e-02
+   39     850    7.555578e+03    0.000e+00    1.425e+01    4.182e-02
+   40     868    7.555533e+03    0.000e+00    1.252e+01    3.412e-02
+   41     886    7.555513e+03    0.000e+00    1.313e+01    1.795e-02
+   42     904    7.555500e+03    0.000e+00    1.302e+01    1.013e-02
+   43     922    7.555467e+03    0.000e+00    1.121e+01    2.020e-02
+   44     940    7.555435e+03    0.000e+00    9.114e+00    1.399e-02
+   45     958    7.555413e+03    0.000e+00    4.613e+00    1.298e-02
+   46     976    7.555409e+03    0.000e+00    7.606e-01    1.067e-02
+   47     994    7.555409e+03    0.000e+00    1.441e-01    3.082e-03
+   48    1012    7.555409e+03    0.000e+00    3.786e-02    2.927e-04
+   49    1030    7.555409e+03    0.000e+00    1.587e-03    3.016e-05
+   50    1048    7.555409e+03    0.000e+00    1.217e-03    2.945e-05
+   51    1066    7.555409e+03    0.000e+00    5.488e-04    8.224e-06
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'local_min_poss_with_constr','CSHelpWindow');">Local minimum possible. Constraints satisfied</a>.
+
+fmincon stopped because the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_curr_step_simple_fminconip','CSHelpWindow');">size of the current step</a> is less than
+the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> and constraints are 
+satisfied to within the default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'constraint_tolerance','CSHelpWindow');">constraint tolerance</a>.
+
+<<a href = "matlab: createExitMsg('barrier',2.000000e+00,true,true,'fmincon',5.920397e-07,'selected',1.000000e-06,0.000000e+00,'default',1.000000e-06,0.000000e+00,'',0.000000e+00);">stopping criteria details</a>>
+
+ 
+Estimation took 10.5233 minutes.
+ 
+Convergence achieved by criterion based on change in parameters.
+Parameters changed less than PARAMTOL= 1e-06
+You might want to check whether this is actually convergence.
+The gradient vector is
+grad =
+   1.0e-03 *
+   -0.4883
+   -0.3662
+    0.5493
+   -0.1831
+   -0.1221
+    0.1223
+    0.1757
+   -0.3052
+   -0.0610
+    0.1221
+    0.0610
+   -0.1831
+   -0.5493
+    0.1221
+   -0.4272
+         0
+    0.2441
+Value of the log-likelihood function at convergence: -7555.4088
+ 
+                      AIC                      BIC
+              ------------------   -----------------------
+                  15144.8176               15219.3946
+ 
+ 
+Taking inverse of hessian for standard errors.
+ 
+The value of grad*inv(hessian)*grad is: 1.2842e-07
+ 
+-------------------------------------------------------------------
+     RESULTS FROM THE INTEGRATED CHOICE & LATENT VARIABLE MODEL 
+-------------------------------------------------------------------
+ 
+ 
+STRUCTURAL MODEL
+ 
+                    Coeffs      
+              ------------------ 
+                Est         SE       Z-Stat 
+A_TTS          0.9663     0.2835     3.4080
+A_SnGo         0.1179     0.0424     2.7799
+A_Male        -0.4405     0.0644    -6.8423
+A_ALT40ELT8     0.7309     0.1676     4.3617
+A_AGT40EGT8     0.6729     0.2223     3.0264
+ 
+ 
+ 
+ 
+MEASUREMENT MODEL
+ 
+                    Coeffs      
+              ------------------ 
+                Est         SE       Z-Stat 
+Bc_1          -2.4963     0.8664    -2.8813
+Bc_2          -2.0839     0.8884    -2.3457
+LV_Load        0.9680     0.0755    12.8161
+Mu_12          0.4267     0.0505     8.4523
+Mu_13          0.2941     0.0517     5.6838
+Mu_14          0.5208     0.0790     6.5943
+Mu_22          0.3099     0.0448     6.9133
+Mu_23          0.1260     0.0445     2.8337
+Mu_24          0.4483     0.0454     9.8798
+ 
+ 
+** The first threshold point is normalised to ZERO because a constant term is getting estimated. 
+ 
+ 
+ 
+ 
+CHOICE MODEL
+ 
+                    Coeffs      
+              ------------------ 
+                Est         SE       Z-Stat 
+C_TT           0.3080     0.0931     3.3087
+C_VRC          0.0000     1.0000     0.0000
+C_VRCLV       -0.0422     0.0115    -3.6592
+ 
+ 
+ESTIMATED VARIANCE COVARIANCE MATRIX.
+ 
+Measurement Model
+ 
+vcmatrix =
+    1.9371    0.9371
+    0.9371    1.9371
+ 
+ 
+ESTIMATED PARAMETERS AND FULL COVARIANCE MATRIX.
+The estimated values of the parameters are:
+paramhat =
+  Columns 1 through 11
+    0.9663    0.1179   -0.4405    0.7309    0.6729   -2.4963   -2.0839    0.9680    0.4267    0.2941    0.5208
+  Columns 12 through 17
+    0.3099    0.1260    0.4483    0.3080         0   -0.0422
+The covariance matrix for these parameters is:
+ihess =
+  Columns 1 through 11
+    0.0804    0.0050    0.0093    0.0427    0.0578   -0.2418   -0.2450   -0.0186   -0.0115    0.0087    0.0125
+    0.0050    0.0018    0.0004    0.0036    0.0047   -0.0169   -0.0209   -0.0014   -0.0008    0.0007    0.0009
+    0.0093    0.0004    0.0041    0.0048    0.0076   -0.0321   -0.0318   -0.0015   -0.0010    0.0011    0.0014
+    0.0427    0.0036    0.0048    0.0281    0.0351   -0.1319   -0.1363   -0.0104   -0.0063    0.0047    0.0068
+    0.0578    0.0047    0.0076    0.0351    0.0494   -0.1790   -0.1843   -0.0137   -0.0083    0.0064    0.0094
+   -0.2418   -0.0169   -0.0321   -0.1319   -0.1790    0.7506    0.7641    0.0518    0.0335   -0.0290   -0.0404
+   -0.2450   -0.0209   -0.0318   -0.1363   -0.1843    0.7641    0.7892    0.0532    0.0342   -0.0295   -0.0411
+   -0.0186   -0.0014   -0.0015   -0.0104   -0.0137    0.0518    0.0532    0.0057    0.0032   -0.0012   -0.0021
+   -0.0115   -0.0008   -0.0010   -0.0063   -0.0083    0.0335    0.0342    0.0032    0.0025   -0.0012   -0.0016
+    0.0087    0.0007    0.0011    0.0047    0.0064   -0.0290   -0.0295   -0.0012   -0.0012    0.0027    0.0015
+    0.0125    0.0009    0.0014    0.0068    0.0094   -0.0404   -0.0411   -0.0021   -0.0016    0.0015    0.0062
+   -0.0089   -0.0006   -0.0008   -0.0049   -0.0064    0.0253    0.0262    0.0026    0.0017   -0.0006   -0.0010
+   -0.0080   -0.0004   -0.0005   -0.0043   -0.0057    0.0222    0.0224    0.0023    0.0013   -0.0004   -0.0007
+   -0.0013   -0.0001   -0.0002   -0.0007   -0.0010    0.0020    0.0024    0.0010    0.0005    0.0002    0.0001
+   -0.0223   -0.0019   -0.0019   -0.0126   -0.0167    0.0693    0.0714    0.0048    0.0030   -0.0025   -0.0033
+         0         0         0         0         0         0         0         0         0         0         0
+    0.0009    0.0002    0.0002    0.0005    0.0007   -0.0028   -0.0031   -0.0003   -0.0002    0.0001    0.0002
+  Columns 12 through 17
+   -0.0089   -0.0080   -0.0013   -0.0223         0    0.0009
+   -0.0006   -0.0004   -0.0001   -0.0019         0    0.0002
+   -0.0008   -0.0005   -0.0002   -0.0019         0    0.0002
+   -0.0049   -0.0043   -0.0007   -0.0126         0    0.0005
+   -0.0064   -0.0057   -0.0010   -0.0167         0    0.0007
+    0.0253    0.0222    0.0020    0.0693         0   -0.0028
+    0.0262    0.0224    0.0024    0.0714         0   -0.0031
+    0.0026    0.0023    0.0010    0.0048         0   -0.0003
+    0.0017    0.0013    0.0005    0.0030         0   -0.0002
+   -0.0006   -0.0004    0.0002   -0.0025         0    0.0001
+   -0.0010   -0.0007    0.0001   -0.0033         0    0.0002
+    0.0020    0.0008    0.0004    0.0023         0   -0.0001
+    0.0008    0.0020    0.0002    0.0017         0   -0.0001
+    0.0004    0.0002    0.0021    0.0005         0   -0.0000
+    0.0023    0.0017    0.0005    0.0087         0    0.0000
+         0        
